@@ -7,8 +7,8 @@ Develop a comprehensive report for the following exercises:
 4.	Generative AI impact of scaling in LLMs.
 
 ```   
-Name: DURGADEVI P
-Reg.No: 212223100006
+Name: PREETHI D
+Reg.No: 212224040250
 ```
 
 # Output:
